@@ -64,7 +64,6 @@ public class MainActivity extends Activity implements LoaderManager.LoaderCallba
 
 		return super.onOptionsItemSelected(item);
 		//test
-		//
 	}
 
 	@Override
